@@ -1,0 +1,12 @@
+{
+  "description": "GitHub Pages Verification",
+
+  "domain": "app.awdev.my.id",
+  "subdomain": "_github-pages-challenge-zonenubia.app.awdev.my.id",
+ "repositories": "https://github.com/zonenubia/app/"
+  "record": {
+    "TXT": ["dab39afac79ebce3b5d1c19312553a"]
+  },
+
+  "proxied": true
+}
