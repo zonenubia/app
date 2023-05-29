@@ -1,0 +1,13 @@
+awdev.my.id
+www.awdev.my.id
+app.awdev.my.id
+shop.awdev.my.id
+go.awdev.my.id
+web.awdev.my.id
+m.awdev.my.id
+qr.awdev.my.id
+cloud.awdev.my.id
+hextris.awdev.my.id
+ns.awdev.my.id
+ns1.awdev.my.id
+0.awdev.my.id
